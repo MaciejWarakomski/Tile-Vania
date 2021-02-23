@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2f9a8d44654e19e418bc2278c0f8a3e8, type: 3}
+    - {fileID: 2800000, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+    - {fileID: 2800000, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3747544219709766277, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -5576478142290952502, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -5134054752372163016, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -3487811798477773700, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -7175372319361646676, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -8076291029264883859, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -7647882774218309960, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -3542295685721467227, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -1667590691872097069, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -1076426586580465502, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -2488111991826676060, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 3803662930465603148, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 2766323726693326924, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -4897907173415269231, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -3503154757471595975, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 6192572789505845407, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 6972465368094823745, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -7671020578840251174, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -3493280607249542649, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -7832389824997676707, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -2755257858965140955, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 7799159119227759483, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 7323906098350758705, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -1236713991046615032, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -3326836957996475874, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -2464266514383608195, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 1958745200148787322, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 7953296568139915108, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -4977721373819348528, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: -5972448355421142556, guid: 72ec6ce33f49a8041b189c242e7450fa, type: 3}
+  - {fileID: 21300000, guid: 2f9a8d44654e19e418bc2278c0f8a3e8, type: 3}
+  - {fileID: -5862157076625757123, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 7565696428887314959, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 3104076937310148729, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 4777146490511550170, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -6414447125379547148, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -2276109588449258574, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 7622431064557552515, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 289114549585270027, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 4021284656184010451, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -5428507737112726026, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -3357515910591759238, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 124453552786969483, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -568864715573125675, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: -1693060807349068911, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 374688490947754656, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  - {fileID: 8721707918184771119, guid: 03f8cac67cb2b3946a47f201bf3577ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SPA_Rock_Grass_Water_29
+  - SPA_Rock_Grass_Water_28
+  - SPA_Rock_Grass_Water_23
+  - SPA_Rock_Grass_Water_22
+  - SPA_Rock_Grass_Water_18
+  - SPA_Rock_Grass_Water_21
+  - SPA_Rock_Grass_Water_19
+  - SPA_Rock_Grass_Water_20
+  - SPA_Rock_Grass_Water_16
+  - SPA_Rock_Grass_Water_27
+  - SPA_Rock_Grass_Water_17
+  - SPA_Rock_Grass_Water_26
+  - SPA_Rock_Grass_Water_14
+  - SPA_Rock_Grass_Water_25
+  - SPA_Rock_Grass_Water_15
+  - SPA_Rock_Grass_Water_24
+  - SPA_Rock_Grass_Water_12
+  - SPA_Rock_Grass_Water_13
+  - SPA_Rock_Grass_Water_10
+  - SPA_Rock_Grass_Water_11
+  - SPA_Rock_Grass_Water_9
+  - SPA_Rock_Grass_Water_8
+  - SPA_Rock_Grass_Water_3
+  - SPA_Rock_Grass_Water_2
+  - SPA_Rock_Grass_Water_1
+  - SPA_Rock_Grass_Water_0
+  - SPA_Rock_Grass_Water_7
+  - SPA_Rock_Grass_Water_6
+  - SPA_Rock_Grass_Water_5
+  - SPA_Rock_Grass_Water_4
+  - SPA_Ladder
+  - SPA_Background brown tint_4
+  - SPA_Background brown tint_5
+  - SPA_Background brown tint_6
+  - SPA_Background brown tint_7
+  - SPA_Background brown tint_0
+  - SPA_Background brown tint_1
+  - SPA_Background brown tint_2
+  - SPA_Background brown tint_3
+  - SPA_Background brown tint_8
+  - SPA_Background brown tint_9
+  - SPA_Background brown tint_15
+  - SPA_Background brown tint_14
+  - SPA_Background brown tint_13
+  - SPA_Background brown tint_12
+  - SPA_Background brown tint_11
+  - SPA_Background brown tint_10
+  m_Tag: Tiles Sprite Atlas
+  m_IsVariant: 0
